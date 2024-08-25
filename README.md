@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yk-254](https://github.com/yk-254)
 
-- 💬 Ask me about **flutter ,java , arduino , ifogsim and fog computinging**
+- 💬 Ask me about **flutter ,java , arduino , ifogsim and fog computing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
