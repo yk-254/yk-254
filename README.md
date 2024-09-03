@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Laravel , Machine Learning , Deep Learning , Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yk-254](https://github.com/yk-254)
+- 👨‍💻 Some of my projects are available at [https://github.com/yk-254](https://github.com/yk-254)
 
 - 💬 Ask me about **flutter ,java , arduino , ifogsim and fog computing**
 
