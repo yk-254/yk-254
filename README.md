@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yk-254" alt="yk-254" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning , Deep Learning , Python**
+- 🌱 I’m currently learning **Laravel , Machine Learning , Deep Learning , Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yk-254](https://github.com/yk-254)
 
