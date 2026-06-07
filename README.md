@@ -15,7 +15,6 @@
 
 - 💬 Ask me about **flutter ,java , arduino , ifogsim and fog computing**
 
-- 📫 How to reach me **yek.soltani66@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
