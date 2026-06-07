@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yekta</h1>
+<h1 align="center">Hi 👋, I'm Astro Dev</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=e876c1&center=true&lines=A+passionate+flutter+Developer+:);&center=true&width=380&height=45"></a>
 </p>
